@@ -2,9 +2,7 @@
 
 <p align="center">Nesse projeto do jogo da velha, o jogador pode optar por jogar contra a inteligência artificial ("IA") ou com 2 jogadores.</p>
 
-![Jogo da velha - Google Chrome 19_12_2023 20_54_41](https://github.com/MarcosDEVinicius/projeto-jogo-da-velha/assets/121734930/13d1254b-32fb-4c2f-9030-713be09c555c)![Jogo da velha - Google Chrome 19_12_2023 20_54_53](https://github.com/MarcosDEVinicius/projeto-jogo-da-velha/assets/121734930/33f69119-33aa-472c-9b90-fc0bc0a1beb3)
-![Jogo da velha - Google Chrome 19_12_2023 20_55_20](https://github.com/MarcosDEVinicius/projeto-jogo-da-velha/assets/121734930/5320d0ff-3e1e-453d-8fda-e217012312bb)
-![Jogo da velha - Google Chrome 19_12_2023 20_55_23](https://github.com/MarcosDEVinicius/projeto-jogo-da-velha/assets/121734930/107c6125-4b0c-4997-a478-6cc5e487e993)
+![Jogo da velha - Google Chrome 19_12_2023 20_54_41](https://github.com/MarcosDEVinicius/projeto-jogo-da-velha/assets/121734930/13d1254b-32fb-4c2f-9030-713be09c555c)![Jogo da velha - Google Chrome 19_12_2023 20_54_53](https://github.com/MarcosDEVinicius/projeto-jogo-da-velha/assets/121734930/33f69119-33aa-472c-9b90-fc0bc0a1beb3)![Jogo da velha - Google Chrome 19_12_2023 20_55_20](https://github.com/MarcosDEVinicius/projeto-jogo-da-velha/assets/121734930/5320d0ff-3e1e-453d-8fda-e217012312bb)![Jogo da velha - Google Chrome 19_12_2023 20_55_23](https://github.com/MarcosDEVinicius/projeto-jogo-da-velha/assets/121734930/107c6125-4b0c-4997-a478-6cc5e487e993)
 
 ## 🔥 Introdução
 
